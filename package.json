@@ -1,0 +1,27 @@
+{
+  "name": "react-native-custom-components",
+  "version": "0.0.0",
+  "description": "Utility react native custom components",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "type-check": "tsc --project tsconfig.json"
+  },
+  "keywords": [
+    "react-native",
+    "custom-components"
+  ],
+  "author": "muthukumar",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-native": "^0.64.2",
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "^8.1.0",
+    "typescript": "^4.3.5",
+    "victory-native": "^35.3.3"
+  },
+  "devDependencies": {
+    "@types/react-native": "^0.64.10"
+  }
+}
